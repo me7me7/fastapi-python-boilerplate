@@ -1,3 +1,4 @@
+import flet as ft
 from fastapi import FastAPI
 from fastapi.responses import HTMLResponse
 
